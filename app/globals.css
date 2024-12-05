@@ -19,3 +19,17 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+#d {
+position: absolute;
+left: 69.49%;
+right: 6.47%;
+top: 62.02%;
+bottom: 28.29%;
+
+background: linear-gradient(0deg, rgba(31, 46, 126, 0.2), rgba(31, 46, 126, 0.2)), radial-gradient(89.54% 67.34% at 33.89% -8.16%, #949494 0%, #181818 63.52%, #1D1D1D 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+opacity: 0.2;
+box-shadow: inset 53.987px 31.4924px 62.9849px rgba(43, 46, 61, 0.9), inset -37.6004px 65.8006px 159.802px rgba(255, 255, 255, 0.87);
+transform: rotate(-90deg);
+}
+
